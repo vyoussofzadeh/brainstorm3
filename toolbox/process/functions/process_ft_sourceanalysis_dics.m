@@ -28,7 +28,7 @@ end
 %% ===== GET DESCRIPTION =====
 function sProcess = GetDescription() 
     % Description the process
-    sProcess.Comment     = 'FieldTrip: DICS beamformer - clean';
+    sProcess.Comment     = 'FieldTrip: DICS beamformer';
     sProcess.Category    = 'Custom';
     sProcess.SubGroup    = 'Sources';
     sProcess.Index       = 357;
